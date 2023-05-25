@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vinh | Mayo</h1>
+<h1 align="center">Hi 👋, I'm Vinh (Mayo)</h1>
 <h3 align="center">A software engineer based in Ho Chi Minh city.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayo1911&label=Profile%20views&color=0e75b6&style=flat" alt="mayo1911" /> </p>
